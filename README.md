@@ -37,7 +37,7 @@ Model Overview Screens:
    
 3. Use filters and slicers to interact with the dashboard.
 
-##📈 Insights
+## 📈 Insights
 
 SUVs and Sedans generated the highest sales volumes across regions.
 
@@ -46,7 +46,7 @@ Profitability varied by segment — some models sold more units but with low pro
 Discount-heavy models boosted sales but lowered profitability.
 
 
-##📌 Author
+## 📌 Author
 
 👩‍💻 Vaishnavi Bhamare
 
